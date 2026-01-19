@@ -1,4 +1,3 @@
 # im-just-a-riot-grrrl
-<a href='https://blinkies.cafe' target='_blank'><img src='https://blinkies.cafe/b/blinkiesCafe-kk.gif!' alt='blinkies.cafe | make your own blinkies!'></a>
-<a href='https://blinkies.cafe' target='_blank'><img src='https://blinkies.cafe/b/blinkiesCafe-wv.gif!' alt='blinkies.cafe | make your own blinkies!'></a>
-<a href='https://blinkies.cafe' target='_blank'><img src='https://blinkies.cafe/b/blinkiesCafe-bq.gif!' alt='blinkies.cafe | make your own blinkies!'></a>
+<a>
+<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1hDhHKEwHaqWkb0Cbxx0WBCuoFaAnBxNz2GpnY-LTPQ&s=10!'></a>
